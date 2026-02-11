@@ -52,7 +52,7 @@ I built a custom CNN architecture from scratch to capture spatial hierarchies in
 Below is the training history showing the model's learning curve. Notice how **Validation Recall** (Orange line) remains high throughout training.
 
 ![Model Performance Charts](./model_performance.jpg)
-*(Make sure to upload your 'model_performance.jpg' image to the repo to see it here)*
+
 
 ## How to Run
 1.  Clone this repository.
