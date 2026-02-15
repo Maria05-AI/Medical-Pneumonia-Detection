@@ -21,6 +21,10 @@ I evaluated the model on a strict, unseen test set of 624 images.
 | **Accuracy** | ~73% | The model is "cautious," flagging suspicious cases for doctor review rather than missing them. |
 | **Precision** | ~70% | Accepted trade-off to maximize Recall. |
 
+## 📄 In-Depth Analysis
+Interested in seeing real-world test cases and error analysis?
+👉 **[Click here to view the full Inference Report (PDF)](./Pneumonia_Inference_Report.pdf)**
+
 ## Tech Stack & Tools
 * **Deep Learning Framework:** TensorFlow / Keras
 * **Language:** Python
