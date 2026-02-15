@@ -23,7 +23,7 @@ I evaluated the model on a strict, unseen test set of 624 images.
 
 ## 📄 In-Depth Analysis
 Interested in seeing real-world test cases and error analysis?
-👉 **[Click here to view the full Inference Report (PDF)](./Pneumonia_Inference_Report.pdf)**
+👉 **[Click here to view the full Inference Report (PDF)](Medical-Pneumonia-Detection/testing/Pneumonia_Inference_Report.pdf)**
 
 ## Tech Stack & Tools
 * **Deep Learning Framework:** TensorFlow / Keras
